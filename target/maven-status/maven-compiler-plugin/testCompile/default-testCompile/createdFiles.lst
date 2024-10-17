@@ -1,0 +1,4 @@
+dev\levenshtein\csvTest.class
+dev\levenshtein\DistanceSuiteTests.class
+dev\levenshtein\DistanceLevenshteinTest.class
+dev\levenshtein\ValidationSuiteTests.class
